@@ -58,6 +58,12 @@ https://docs.google.com/spreadsheets/d/1FUFXEIM3AXOpg05Rq1yR0hf0UDvLssygsGvR8uv9
 
 ---
 
-**LINK TO MOD: ** 
+### WARNING:
+DO NOT REPLACE SMALL .OGG FILES, THE WHOLE MUSIC PACK WILL BREAK (KNOWN: FILE 34 and 63)
+- files that are about 1-2 seconds long
+- you dont hear any sound when played
+- only a few kilobytes (10KB-20KB)
 
-**GITHUB: **
+**LINK TO MOD:** https://drive.google.com/drive/folders/1myaJEEMNdLp5tlpy9Ih-p14S7zKC67dl?usp=drive_link
+
+**GITHUB:**https://github.com/the-real-thunderlol/AOT2-KTSL2STBIN-AUDIO-EDITOR
