@@ -66,4 +66,4 @@ DO NOT REPLACE SMALL .OGG FILES, THE WHOLE MUSIC PACK WILL BREAK (KNOWN: FILE 34
 
 **LINK TO MOD:** https://drive.google.com/drive/folders/1myaJEEMNdLp5tlpy9Ih-p14S7zKC67dl?usp=drive_link
 
-**GITHUB:**https://github.com/the-real-thunderlol/AOT2-KTSL2STBIN-AUDIO-EDITOR
+**GITHUB:** https://github.com/the-real-thunderlol/AOT2-KTSL2STBIN-AUDIO-EDITOR
